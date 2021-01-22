@@ -1,7 +1,7 @@
 ## AutoShutdown v1.0
 ---
 
-* 제작자: 강지완 (a.k.a. boringariel)
+* 제작자: boringariel
 * 이 프로그램은 [General Public License](https://github.com/boringariel/autoshutdown/blob/master/LICENSE)를 따릅니다 [(소스코드 보기)](https://github.com/boringariel/autoshutdown/blob/master/AutoShutdown.ipynb)
 
 컴퓨터 자동 종료 커맨드를 자동으로 입력해 주는 GUI 프로그램입니다.
